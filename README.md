@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1>Hi, I'm Javier, an <a href="(https://www.linkedin.com/in/javier-navar-06344b153/)">IT Professional</a>☺</h1>
+t### Hi there 👋
+<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-navar-06344b153/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
